@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building the Front-end
-published:true
+published: true
 tags: front-end development
 ---
 
